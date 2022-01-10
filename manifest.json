@@ -1,0 +1,23 @@
+{
+    "name": "Laughter",
+    "description": "Created by Buddhadeb Chhetri",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+          "16": "/img/ic_laughter16.png",
+          "32": "/img/ic_laughter16.png",
+          "48": "/img/ic_laughter16.png",
+          "128": "/img/ic_laughter16.png"
+        }
+      },
+      "icons": {
+        "16": "/img/ic_laughter16.png",
+        "32": "/img/ic_laughter16.png",
+        "48": "/img/ic_laughter16.png",
+        "128": "/img/ic_laughter16.png"
+      },
+      "premission":["activeTab"]
+    
+  }
